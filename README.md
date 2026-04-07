@@ -1,3 +1,3 @@
-# projects-python
-Here youu find a simple python games like...
+# **projects-python **
+## Here you find a simple python games like
 1.Snake and Ladder game
