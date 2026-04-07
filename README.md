@@ -1,2 +1,3 @@
 # projects-python
-Collection of Python mini projects and games.
+Here youu find a simple python games like....
+1.Snake and Ladder game
